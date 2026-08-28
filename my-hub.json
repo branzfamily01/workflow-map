@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "title": "Workflow Map",
+  "category": "Productivity",
+  "summary": "ワークごとに案件・工程・タスク・担当者を整理し、現在地と次の行動を見える化する共有アプリ。",
+  "tags": [
+    "案件管理",
+    "タスク共有",
+    "進捗管理",
+    "チーム",
+    "ワークフロー",
+    "PWA"
+  ],
+  "color": "purple",
+  "status": "active",
+  "visibility": "public",
+  "manualUrl": "https://branzfamily01.github.io/workflow-map/manual.html"
+}
